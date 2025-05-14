@@ -1,0 +1,1 @@
+xx = room_width
