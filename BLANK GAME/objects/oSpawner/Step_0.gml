@@ -12,9 +12,9 @@ if !instance_exists(oCactus){
 	}
 }
 
-if !instance_exists(oPassaro) and global.pontos > 400{
+if !instance_exists(oPassaro) and global.pontos > 10{
 	var _chancePassaro = choose(1, 1, 2, 1)
 	if _chancePassaro == 2{
-		instance_create_depth(xx, 96, depth, oPassaro)	
+		instance_create_depth(xx, random_range(80, 160)-50, depth, oPassaro)	
 	}	
 }

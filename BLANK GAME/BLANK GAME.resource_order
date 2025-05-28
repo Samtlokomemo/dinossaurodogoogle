@@ -26,6 +26,7 @@
     {"name":"sBlock","order":1,"path":"sprites/sBlock/sBlock.yy",},
     {"name":"sCactus","order":3,"path":"sprites/sCactus/sCactus.yy",},
     {"name":"sDino","order":2,"path":"sprites/sDino/sDino.yy",},
+    {"name":"sDinoAbaixado","order":5,"path":"sprites/sDinoAbaixado/sDinoAbaixado.yy",},
     {"name":"sPassaro","order":4,"path":"sprites/sPassaro/sPassaro.yy",},
   ],
 }

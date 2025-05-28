@@ -48,6 +48,7 @@
     {"id":{"name":"sCactus","path":"sprites/sCactus/sCactus.yy",},},
     {"id":{"name":"sChao","path":"sprites/sChao/sChao.yy",},},
     {"id":{"name":"sDino","path":"sprites/sDino/sDino.yy",},},
+    {"id":{"name":"sDinoAbaixado","path":"sprites/sDinoAbaixado/sDinoAbaixado.yy",},},
     {"id":{"name":"sPassaro","path":"sprites/sPassaro/sPassaro.yy",},},
   ],
   "resourceType":"GMProject",
